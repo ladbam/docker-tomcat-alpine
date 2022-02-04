@@ -2,6 +2,6 @@
 FROM tomcat:alpine
 
 # Maintainer
-MAINTAINER "kloversolutions@0utlook.com"
+MAINTAINER "kloversolutions@outlook.com"
 
 CMD ["catalina.sh", "run"]
